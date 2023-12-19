@@ -26,7 +26,7 @@ Identificar las empresas que tienen un alto potencial de atención en ProColombi
     - [Notebook.html](Datos/Alto potencial de atención -  Nicolás Rivera Garzón.html)
 
 - **Resultados:**
-    - [Listado de empresas sugeridas para contacto (Archivo en Excel)](Datos/Resultados/Clientes Potenciales.xlsx)
+    - [Listado de empresas sugeridas para contacto (Archivo en Excel)](Datos/Resultados/Clientes)
     - [Empresas por actividad](Datos/Resultados/Empresas_por_actividad.png)
     - [Empresas por departamento](Datos/Resultados/Empresas_por_Dept.png)
     
