@@ -45,8 +45,8 @@ Analizar las exportaciones no minero-energéticas (NME), proyectando su comporta
     - Tasa de crecimiento mensual
 
 ### 3. Presentación Formal
-- [Presentación de Resultados - Nicolas Rivera Garzón.pdf](nriverag/ProColombia/)
-- [Presentación de Resultados - Nicolas Rivera Garzón.pptx](nriverag/ProColombia/)
+- [Presentación de Resultados - Nicolas Rivera Garzón.pdf](nriverag/ProColombia)
+- [Presentación de Resultados - Nicolas Rivera Garzón.pptx](nriverag/ProColombia)
 
 
 
