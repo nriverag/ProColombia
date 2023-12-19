@@ -45,6 +45,8 @@ Analizar las exportaciones no minero-energéticas (NME), proyectando su comporta
     - Tasa de crecimiento mensual
 
 ### 3. Presentación Formal
+    - [Pronósticos hasta diciembre de 2024](Datos/Resultados/)
+    - Decomposición serie de tiempo
 
 
 
