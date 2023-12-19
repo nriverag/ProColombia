@@ -42,10 +42,10 @@ Analizar las exportaciones no minero-energéticas (NME), proyectando su comporta
     - [Forecasting NME -  Nicolás Rivera Garzón.html](Datos/Forecasting NME -  Nicolás Rivera Garzón.html)
 
 - **Proyecciones y resultados:**
-    - (Pronósticos hasta diciembre de 2024)[Datos/Resultados/Predicciones - NME.xlsx]
-    - (Decomposición serie de tiempo)[Datos/Resultados/Decomposición serie de tiempo.png]
-    - (Serie de tiempo)[Datos/Resultados/Exportaciones.png]
-    - (Tasa de crecimiento mensual)[Datos/Resultados/Tasa de crecimiento mensual.png]
+    - [Pronósticos hasta diciembre de 2024](Datos/Resultados/Predicciones - NME.xlsx)
+    - [Decomposición serie de tiempo](Datos/Resultados/Decomposición serie de tiempo.png)
+    - [Serie de tiempo](Datos/Resultados/Exportaciones.png)
+    - [Tasa de crecimiento mensual](Datos/Resultados/Tasa de crecimiento mensual.png)
 
 ### 3. Presentación Formal
 
