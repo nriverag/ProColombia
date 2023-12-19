@@ -35,8 +35,8 @@ Analizar las exportaciones no minero-energéticas (NME), proyectando su comporta
     - [Base de Exportaciones (expo_nme.xlsx)](Datos/expo_nme.xlsx)
 
 - **Script (Jupyter Notebook - Python):**
-    - (Forecasting NME -  Nicolás Rivera Garzón.ipynb)[Datos/Forecasting NME -  Nicolás Rivera Garzón.ipynb]
-    - (Forecasting NME -  Nicolás Rivera Garzón.html)[Datos/Forecasting NME -  Nicolás Rivera Garzón.html]
+    - [Forecasting NME -  Nicolás Rivera Garzón.ipynb](Datos/Forecasting NME -  Nicolás Rivera Garzón.ipynb)
+    - [Forecasting NME -  Nicolás Rivera Garzón.html](Datos/Forecasting NME -  Nicolás Rivera Garzón.html)
 
 - **Proyecciones y resultados:**
     - (Pronósticos hasta diciembre de 2024)[Datos/Resultados/Predicciones - NME.xlsx]
