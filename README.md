@@ -19,8 +19,11 @@ Identificar las empresas que tienen un alto potencial de atención en ProColombi
     - [Diccionario.xlsx (Detalles de variables)](Datos/Diccionario.xlsx)
 
 - **Script (Jupyter Notebook - Python):**
-    - [Alto potencial de atención - Nicolás Rivera Garzón.ipynb](https://github.com/nriverag/ProColombia/blob/7e05d8c9f4b9cf35b7610f5eb66d678ceaa2d62b/Datos/Alto%20potencial%20de%20atenci%C3%B3n%20-%20%20Nicol%C3%A1s%20Rivera%20Garz%C3%B3n.ipynb)
-    - [Alto potencial de atención - Nicolás Rivera Garzón.html](https://github.com/nriverag/ProColombia/blob/7e05d8c9f4b9cf35b7610f5eb66d678ceaa2d62b/Datos/Alto%20potencial%20de%20atenci%C3%B3n%20-%20%20Nicol%C3%A1s%20Rivera%20Garz%C3%B3n.html)
+    - [Alto potencial de atención - Nicolás Rivera Garzón.ipynb]()
+    - [Alto potencial de atención - Nicolás Rivera Garzón.html]()
+ 
+    - [Notebook.ipynb](Datos/Alto potencial de atención -  Nicolás Rivera Garzón.ipynb)
+    - [Notebook.html](Datos/Alto potencial de atención -  Nicolás Rivera Garzón.html)
 
 - **Resultados:**
     - [Listado de empresas sugeridas para contacto (Archivo en Excel)](Datos/Resultados/Clientes Potenciales.xlsx)
