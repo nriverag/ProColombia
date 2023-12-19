@@ -12,40 +12,37 @@ A continuación se especifica el objetivo de cada tarea y se listan los elemento
 Identificar las empresas que tienen un alto potencial de atención en ProColombia, es decir aquellas que pueden tener potencial de convertirse en exportadoras, esto le permitirá al equipo de la Vicepresidencia de Exportaciones (VPE) contar con un listado corto de empresas que tengan alta probabilidad de cerrar negocios en el exterior.
 
 - **[Datos Utilizados:](Datos)**
-    - [Base de Exportaciones](Datos/Exportaciones.txt)
-    - [Directorio de Empresas del DANE](Datos/Directorio_DANE.txt)
-    - [Listado de Super Sociedades](Datos/Supersociedades.txt)
-    - [Listado del Registro Único Empresarial (RUES)](Datos/RUES.txt)
-    - [Diccionario.xlsx (Detalles de variables)](Datos/Diccionario.xlsx)
+    - Base de Exportaciones
+    - Directorio de Empresas del DANE
+    - Listado de Super Sociedades
+    - Listado del Registro Único Empresarial (RUES)
+    - Diccionario.xlsx (Detalles de variables)
 
-- **Script (Jupyter Notebook - Python):**
-    - [Alto potencial de atención - Nicolás Rivera Garzón.ipynb]()
-    - [Alto potencial de atención - Nicolás Rivera Garzón.html]()
- 
-    - [Notebook.ipynb](Datos/Alto potencial de atención -  Nicolás Rivera Garzón.ipynb)
-    - [Notebook.html](Datos/Alto potencial de atención -  Nicolás Rivera Garzón.html)
+- **[Script (Jupyter Notebook - Python):](Datos)**
+    - Alto potencial de atención - Nicolás Rivera Garzón.ipynb
+    - Alto potencial de atención - Nicolás Rivera Garzón.html
 
-- **Resultados:**
-    - [Listado de empresas sugeridas para contacto (Archivo en Excel)](Datos/Resultados/Clientes)
-    - [Empresas por actividad](Datos/Resultados/Empresas_por_actividad.png)
-    - [Empresas por departamento](Datos/Resultados/Empresas_por_Dept.png)
+- **[Resultados:](Datos/Resultados/)**
+    - Listado de empresas sugeridas para contacto (Archivo en Excel)
+    - Empresas por actividad
+    - Empresas por departamento
     
 ### 2. Tarea 2: Pronóstico de Exportaciones No Minero-Energéticas (NME) hasta 2024
 
 Analizar las exportaciones no minero-energéticas (NME), proyectando su comportamiento para el cierre de 2023 y 2024.
 
 - **[Datos Utilizados:](Datos)**
-    - [Base de Exportaciones (expo_nme.xlsx)](Datos/expo_nme.xlsx)
+    - Base de Exportaciones (expo_nme.xlsx)
 
-- **Script (Jupyter Notebook - Python):**
-    - [Forecasting NME -  Nicolás Rivera Garzón.ipynb](Datos/Forecasting NME -  Nicolás Rivera Garzón.ipynb)
-    - [Forecasting NME -  Nicolás Rivera Garzón.html](Datos/Forecasting NME -  Nicolás Rivera Garzón.html)
+- **[Script (Jupyter Notebook - Python):](Datos)**
+    - Forecasting NME -  Nicolás Rivera Garzón.ipynb
+    - Forecasting NME -  Nicolás Rivera Garzón.html
 
-- **Proyecciones y resultados:**
-    - [Pronósticos hasta diciembre de 2024](Datos/Resultados/Predicciones - NME.xlsx)
-    - [Decomposición serie de tiempo](Datos/Resultados/Decomposición serie de tiempo.png)
-    - [Serie de tiempo](Datos/Resultados/Exportaciones.png)
-    - [Tasa de crecimiento mensual](Datos/Resultados/Tasa.png)
+- **[Proyecciones y resultados:](Datos/Resultados/)**
+    - Pronósticos hasta diciembre de 2024
+    - Decomposición serie de tiempo
+    - Serie de tiempo
+    - Tasa de crecimiento mensual
 
 ### 3. Presentación Formal
 
